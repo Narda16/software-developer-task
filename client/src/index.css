@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.button {
+  background-color: #02233c !important;
+}
+
+.text {
+  font-family: "Times New Roman", Times, serif !important;
+  font-style: oblique;
+}
+
+.delete-button {
+  background-color: #a31621 !important;
+}
+
+.table-actions-edit-button {
+  background-color: #fd9e02 !important;
+}
+
+.table-actions-div {
+  display: flex;
+  gap: 5px;
+}

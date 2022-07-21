@@ -1,0 +1,26 @@
+[
+  {
+    "code": "Web developer",
+    "description": "Web developers design the appearance, navigation and content organization of a website. They use coding languages such as HTML, CSS and JavaScript to manage graphics, applications and content that address a client's needs."
+  },
+  {
+    "code": "QA tester",
+    "description": "Quality assurance testers are technicians or engineers who check software products to see if they're up to industry standards and free of any issues. This role is common for gaming systems, mobile applications and other technology that needs further testing and maintenance when recommended."
+  },
+  {
+    "code": "UI/UX Designer",
+    "description": "A UI UX designer is a professional who identifies new opportunities to create better user experiences. Aesthetically pleasing branding strategies help them effectively reach more customers. They also ensure that the end-to-end journey with their products or services meets desired outcomes."
+  },
+  {
+    "code": "DevOps Engineer",
+    "description": "The DevOps Engineers are professionals who help developers with their code while also understanding engineering best practices like operating system design or database management systems software installation processes. Their efforts ensure that everything runs smoothly before releasing code onto production servers."
+  },
+  {
+    "code": "Full Stack Developer",
+    "description": "A Full-Stack developer is a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers. These servers do not need other third-party applications to build an entire system from scratch."
+  },
+  {
+    "code": "Human Resources",
+    "description": "HR department takes care of the organization's most valuable asset; its employees. HR professionals make sure that employees have everything they need to perform their day-to-day tasks and they're also responsible for creating a healthy work environment that attracts and retains qualified people."
+  }
+]

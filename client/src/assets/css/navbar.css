@@ -1,0 +1,16 @@
+.navbar-appBar {
+  background-color: #014f86 !important;
+}
+
+.navbar-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

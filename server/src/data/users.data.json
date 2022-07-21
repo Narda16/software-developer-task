@@ -1,0 +1,142 @@
+[
+  {
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "username": "harryP",
+    "email": "harrypotter@mail.com",
+    "password": "harry123"
+  },
+  {
+    "firstName": "Hermione",
+    "lastName": "Granger",
+    "username": "hermioneG",
+    "email": "hermionegranger@mail.com",
+    "password": "hermione123"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Weasley",
+    "username": "ronW",
+    "email": "ronweasley@mail.com",
+    "password": "ron123"
+  },
+  {
+    "firstName": "Severus",
+    "lastName": "Snape",
+    "username": "severusS",
+    "email": "severussnape@mail.com",
+    "password": "severus123"
+  },
+  {
+    "firstName": "Albus",
+    "lastName": "Dumbledore",
+    "username": "albusD",
+    "email": "albusdumbledore@mail.com",
+    "password": "albus123"
+  },
+  {
+    "firstName": "Neville",
+    "lastName": "Longbottom",
+    "username": "nevilleL",
+    "email": "nevillelongbottom@mail.com",
+    "password": "neville123"
+  },
+  {
+    "firstName": "Lord",
+    "lastName": "Voldemort",
+    "username": "lordV",
+    "email": "lordvoldemort@mail.com",
+    "password": "lord123"
+  },
+  {
+    "firstName": "Sirius",
+    "lastName": "Black",
+    "username": "siriusB",
+    "email": "siriusblack@mail.com",
+    "password": "sirius123"
+  },
+  {
+    "firstName": "Draco",
+    "lastName": "Malfoy",
+    "username": "dracoM",
+    "email": "dracomalfoy@mail.com",
+    "password": "draco123"
+  },
+  {
+    "firstName": "Bellatrix",
+    "lastName": "Lestrange",
+    "username": "bellatrixL",
+    "email": "bellatrixlestrange@mail.com",
+    "password": "bellatrix123"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Weasley",
+    "username": "georgeW",
+    "email": "georgeweasley@mail.com",
+    "password": "george123"
+  },
+  {
+    "firstName": "Rubeus",
+    "lastName": "Hagrid",
+    "username": "rubeusH",
+    "email": "rubeushagrid@mail.com",
+    "password": "rubeus123"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Lovegood",
+    "username": "lunaL",
+    "email": "lunalovegood@mail.com",
+    "password": "luna123"
+  },
+  {
+    "firstName": "Newt",
+    "lastName": "Scamander",
+    "username": "newtS",
+    "email": "newtscamander@mail.com",
+    "password": "newt123"
+  },
+  {
+    "firstName": "Lucius",
+    "lastName": "Malfoy",
+    "username": "luciusM",
+    "email": "luciusmalfoy@mail.com",
+    "password": "lucius123"
+  },
+  {
+    "firstName": "Minerva",
+    "lastName": "McGonagall",
+    "username": "minervaM",
+    "email": "minervamcgonagall@mail.com",
+    "password": "minerva123"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Weasley",
+    "username": "mollyW",
+    "email": "mollyweasley@mail.com",
+    "password": "molly123"
+  },
+  {
+    "firstName": "Ginny",
+    "lastName": "Weasley",
+    "username": "ginnyW",
+    "email": "ginnyweasley@mail.com",
+    "password": "ginny123"
+  },
+  {
+    "firstName": "Gellert",
+    "lastName": "Grindelwald",
+    "username": "gellertG",
+    "email": "gellertgrindelwald@mail.com",
+    "password": "gellert123"
+  },
+  {
+    "firstName": "Delores",
+    "lastName": "Umbridge",
+    "username": "deloresU",
+    "email": "deloresumbridge@mail.com",
+    "password": "delores123"
+  }
+]
